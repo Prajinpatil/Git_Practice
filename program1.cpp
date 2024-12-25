@@ -6,6 +6,6 @@ int main(){
     std::cout<<"value";
     std::cin>>num2;
     sum=num1+num2;
-    std::cout<<"Sum="<<sum;
+    std::cout<<"sum="<<sum;
 
 }
